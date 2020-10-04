@@ -1,5 +1,5 @@
 # Gui-Sudoku-Solver-AI
-The Machine Learning Model to solve Sudoku Game from image, video and webcam. 
+The Machine Learning Model to solve Sudoku Game from image, video and webcam. </br>
 Keras and Tensorflow is used to train the model 
 Opencv is used for image processing
 
