@@ -1,4 +1,10 @@
 # Gui-Sudoku-Solver-AI</br>
+
+
+![4haagu](https://user-images.githubusercontent.com/58811384/95017594-ebb03280-0677-11eb-952d-5e55e4a080d6.gif)
+
+![4hackn (1)](https://user-images.githubusercontent.com/58811384/95018152-6c246280-067b-11eb-8dac-7bc27b276877.gif)
+
 ## Overview</br>
 This is a simple fun play python GUI app to solve the Soduku using the input in the form of image , Video or the Webcam ( both from the system webcam or by using the ip webcam ) . It is build on the top of Keras API . The trained model ( ocr/model.hdf5 ) takes the picture of each digit and predict it accordingly . </br>
 </br>
@@ -18,14 +24,12 @@ The code is written in python 3.7 . It you don't have installed you can find it 
 </br>
   
  ## Running the code </br>
- After following the above steps of installation . Open the terminal( cmd, powershell ) in the project directory and use the command <b> python Gui_Final_Sudoku_solver.py</b> </br>
+ After following the above steps of installation . Open the terminal( cmd, powershell ) in the project directory and use the command </br> 
+ ### python Gui_Final_Sudoku_solver.py
+ </br>
 
 
-![4haagu](https://user-images.githubusercontent.com/58811384/95017594-ebb03280-0677-11eb-952d-5e55e4a080d6.gif)
-
-![4hackn (1)](https://user-images.githubusercontent.com/58811384/95018152-6c246280-067b-11eb-8dac-7bc27b276877.gif)
-
-## Libraries required-
+## Main Libraries required-
 Numpy ( for n-dimension array )</br>
 PIL ( for image manipulation )</br>
 Keras ( To train the model )</br>
