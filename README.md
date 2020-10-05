@@ -14,7 +14,7 @@ Opencv is highly used in it to find the block Inside the picture or the video </
 What could have been a perfect way to utilise the lockdown period ? Like most of my time in painting , Netflix . I thought of to start with the Deep Learning . After completing the Artificial Neural Network . I move on to CNN .So this is under that I made .
 
 ## Technical Aspects</br>
-The Project is divided into three parts:
+The Project is divided into three parts:</br>
   1-> Preprocessing the data, Finding the outer box of sudoku , Using waped transform ( like that in scanner ) , Forming a hough Lines .</br>
   2 -> Forming a number image . i. e . it containg only the numbers , Then forming the 2 - Dimension array by predicting each digits inside . </br>
   3 -> Solving the sudoku and , Then finally  using insceptive wraping to print the answer on the original frame </br>
